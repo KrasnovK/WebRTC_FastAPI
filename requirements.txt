@@ -1,0 +1,6 @@
+aiortc~=1.2.1
+fastapi~=0.71.0
+gunicorn
+uvicorn
+starlette~=0.17.1
+pydantic~=1.9.0
